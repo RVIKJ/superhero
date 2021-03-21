@@ -1,0 +1,51 @@
+.body_background 
+{
+    background-image: url("https://image.api.playstation.com/vulcan/img/cfn/11307SRVdUrbv7C0Z5wE7pNdeM0TpEA0ByIWtB53bCrnJV-4SsRQ2575DvQ_XyE7cccVsNNEG2BkJNo0J6L1rdJO8TEihZEd.png");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+#Name
+{
+Width: 600px;
+}
+
+#clearbtn
+{
+	width: 40px;
+	height: 20px;
+}
